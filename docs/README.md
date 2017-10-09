@@ -1,3 +1,10 @@
+---
+layout: page
+title: Traffic sign classification
+tagline: German traffic sign classification in Tensorflow
+description: German traffic sign classification in Tensorflow for Python
+---
+
 # German traffic sign classification in Tensorflow
 The goal of this project is to develop a modified `LeNet` architecture to classify German traffic signs in `Tensorflow` (for `Python`). Furthermore, we aim to make this code as general as possible so that it can easily be extended and adapted for other image processing projects and pipelines.
 
